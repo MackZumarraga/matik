@@ -1,0 +1,13 @@
+Why did you choose the language and framework for this project? What are some of the tradeoffs for using this language/framework?
+
+-I chose Ruby as the language because it's a very readable, versatile, and elegant language. I'm able to implement functionality with clean and consie code that reads like English. I chose Sinatra because it's a lot smaller and simpler than Rails and is useful for small apps. It's easy to make simple requests and present information. Lastly, I chose Preact because it's fast, maintainable and suitable for the scale of the application.
+
+
+How would you iterate on this project beyond what was initially required?
+
+-I would iterate on this project with a few things: 
+1. Database - to store various information about the users and their projects
+2. Authentication - complete sign in, sign up, and log out functionalities
+3. Multiple slides - users can create multiple presentations, slides, and as many page elements they want
+4. History - users can see history of slides they've created
+5. Shareability - the completed presentations can be shared securely to others.
